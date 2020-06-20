@@ -1,0 +1,9 @@
+[
+  {
+    "autoFocus": true,
+    "label": "Comment",
+    "type": "textarea",
+    "name": "comment",
+    "placeholder": "Write a comment..."
+  }
+]
